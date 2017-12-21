@@ -1,0 +1,22 @@
+.col-md-12
+{
+    background-color: white;
+    border-radius: 10px;
+    
+}
+
+.page-header{
+    
+    color: white;
+    text-align: center;
+}
+
+
+
+
+.carousel-indicators-numbers li.active, .carousel-indicators-numbers li:hover {
+  margin: 0 2px;
+  width: 30px;
+  height: 30px;
+  background-color: #337ab7;
+}
